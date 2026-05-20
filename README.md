@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @KarlD11
-- 👀 I’m interested in Web Development (Frontend and Backend) and mobile development
-- 🌱 I’m currently learning all things web (HTML, CSS, Javascript, React +)
+- 👋 Hi, I’m @KarlD11 (Karl Diampova)
+- 👀 I’m interested in Web Development, mobile development abd AI engineering
+- 🌱 I’m currently learning all things web, mobile and AI
 - 💞️ I’m looking to collaborate on applications that tickle my interest
 - 📫 How to reach me by email: kdiampova@gmail.com 
 - 😄 Pronouns: My name is Karl.. what do you think my "pronouns" are loooool... I joke... He/Him
-- ⚡ Fun fact: I wish I took my time deciding what I wanted to do with my life before reaching this stage
+- ⚡ Fun fact: I love making beats, check me out on YouTube: Shaypz
 
 <!---
 KarlD11/KarlD11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
